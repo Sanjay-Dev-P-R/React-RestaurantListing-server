@@ -1,0 +1,23 @@
+
+
+
+                                             RESTAURANT LISTING APP BACKEND
+                        ----------------------------------------------------------------------
+
+    1. Create a new folder for backend - restaurant-server
+    2. create a package json file - mpn init -y(-y = yes for all questions)
+    3. install json server - npm i json-server
+    4. create .gitignore file - node_modules
+    5. Create a db.json file (for storing data)
+    6. Create a index.js file
+       ->import json server
+       ->create a server
+       ->setup path for db.json
+       ->Return Middlewire used by json server
+       ->setup port for server
+       ->use Middlewireand router
+       ->to run the server
+
+    7. change in package.json file
+    8. Run the server - nodemon index.js
+    
